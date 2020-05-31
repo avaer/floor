@@ -1,0 +1,11 @@
+{
+  "name": "Doggo",
+  "description": "WebXR Doggo",
+  "xr_type": "webxr-site@0.0.1",
+  "start_url": "index.html",
+  "xr_details": {
+    "schema": {
+      "speed": "string"
+    }
+  }
+}
