@@ -1,11 +1,12 @@
 {
-  "name": "Doggo",
-  "description": "WebXR Doggo",
+  "name": "Floor",
+  "description": "WebXR Floor",
   "xr_type": "webxr-site@0.0.1",
   "start_url": "index.html",
   "xr_details": {
     "schema": {
       "speed": "string"
-    }
+    },
+    "physics": "static"
   }
 }
